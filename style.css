@@ -326,6 +326,48 @@ td {
     margin-top: 10px;
     font-size: 20px;
 
+
 }
+
 }
+
+
+
+.main-container-result {
+   display: flex;
+   align-items: center;
+   flex-direction: column;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-top: 10px;
+
+    
+}
+
+.main-container-result > h1 {
+  background-color:#1A44A8;
+  color: #fff;
+  width: 100%;
+  text-align: center;
+}
+
+
+
+.username {
+     font-size: 30px;
+
+}
+
+.Id {
+      font-size: 30px;
+}
+
+
+.main-container-result > h2 {
+  background-color:#1A44A8;
+  color: #fff;
+  width: 100%;
+  text-align: center;
+}
+
+
 
